@@ -5,6 +5,7 @@ proxypool1 etc-asia1.nanopool.org:19999
 proxypool2 etc-eu1.nanopool.org:19999
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
+globalmem 5100
 
 # v 1.0
 # ethOS Pool: ethosdistro.com/pool
